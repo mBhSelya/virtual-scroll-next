@@ -1,0 +1,15 @@
+.main {
+  flex-grow: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../images/trtr.avif');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  .title-main {
+    color: white;
+    font-size: 90px;
+  }
+}
